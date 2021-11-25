@@ -1,0 +1,16 @@
+{
+  "name": "vidly-backend-project",
+  "version": "1.0.0",
+  "description": "Back end practice",
+  "main": "App.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarin Bhattarai",
+  "license": "ISC"
+}
